@@ -1,0 +1,143 @@
+/*reglas
+selectores 
+propiedades 
+valores */
+/*selector de etiqueta  header - section - article - nav */
+/* selector decendente  */
+/*body header div nav ol li a */ 
+
+/* Selector de clase . */
+
+/* .link */
+
+/*selector de id*/
+/* #portafolio*/
+.hero{
+    height: 300px;
+    background-image: url('../imagenes/jader\ ft-2.JPG');
+    background-color: #f5e8f9;
+    background-size: 305px 300px;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    border: 2px solid black;
+    border-radius: 10px;
+    border-top-left-radius: 50px;
+    background-color: #f5e8f9;
+    padding: 20px;
+    margin: 45px 20px 0px 20px;
+    
+}
+
+body {
+    font-family: 'Noto',sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-style: 'Playfair' sans-serif;
+    font-weight: normal;
+    letter-spacing: -.2px;
+}
+h1{
+    font-size: 35px;
+    line-height: 1.5em;
+    color:black;
+
+
+
+}
+
+h1 strong{
+    color: #00bfff;
+}
+.projec-details{
+    width: 500px;
+}
+  .proyect {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    border-top-left-radius: 50px;
+    background-color: #f5e8f9;
+    padding: 20px;
+    display: flex;
+    margin: 0px auto 0px auto;
+}
+.proyect-title{
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.proyect-container-imagen{
+    width: 20px;
+}
+.header {
+    background-color: #f5e8f9;
+    border: 2px solid black;
+    border-radius: 10px;
+    border-top-left-radius: 50px;
+    background-color: #f5e8f9;
+    padding: 20px;
+}
+.header a {
+    color: black;
+}
+.hola{
+    background-color: #f5e8f9;
+    border: 2px solid black;
+    border-radius: 10px;
+    border-top-left-radius: 50px;
+    background-color: #f5e8f9;
+    padding: 20px;
+}
+.contacto{
+    background-color: #f5e8f9;
+    border: 2px solid black;
+    border-radius: 10px;
+    border-top-left-radius: 50px;
+    background-color: #f5e8f9;
+    padding: 20px;
+    margin: 0px auto 0px auto;
+}
+.footer{
+    color: black;
+    background-color: #f5e8f9;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    border-top-left-radius: 50px;
+    background-color: #f5e8f9;
+    padding: 20px;
+    border: 2px solid black;
+
+}
+.footer image{
+    vertical-align: text-bottom;
+}
+.footer a {
+    color: black
+
+}
+.portafolio{
+    padding: 20px;
+}
+h2 {
+    color: #00bfff;
+    text-transform: uppercase;
+    font-family: 'Noto',sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+}
+.cabezera{
+    padding: 20px;
+    margin: 0px auto 0px auto;
+}
+.hola a {
+    color: black;
+}
+.proyect a {
+    color: black;
+}
